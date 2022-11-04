@@ -10,7 +10,7 @@ Download the Raspberry Pi imager: https://www.raspberrypi.com/software/
 
 ![image](https://user-images.githubusercontent.com/107272321/199914729-a1e75c76-3f42-4642-b671-537352486dc9.png)
 
-3) Add the downloaded custom.img.xy from this repo
+3) Add the downloaded custom.img.xy from this repo: https://github.com/Chrisx19/Linux-Custom-Images/tree/main/Ubuntu%2020.04
 
 ![image](https://user-images.githubusercontent.com/107272321/199914901-907f8c5f-2acd-4621-951e-a990758db062.png)
 
