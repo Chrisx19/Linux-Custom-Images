@@ -5,4 +5,6 @@ Username: ubuntu
 
 Password: password
 
-Description: Original ubuntu desktop but with minimum package. Use this only if its robotics or electronic purposes.
+Description: 
+
+Original ubuntu desktop but with minimum package. Use this only if its robotics or electronic purposes.
