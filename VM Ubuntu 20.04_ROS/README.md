@@ -3,7 +3,7 @@ Link: [https://mega.nz/file/8DUHHLxB#qMbXqUj5PwUFn1_NH936ZCREiOb_p4YLCiL58WwY2Xg
 
 Username: ubuntu
 
-Password: password
+Password: password (User can change this password on Linux later)
 
 Description: Original ubuntu desktop with complete driver but with minimum package for VM. 
 
